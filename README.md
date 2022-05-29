@@ -17,6 +17,7 @@ The tokens used by AIdventure
 - KoboldAI/GPT-Neo-2.7B-Horni 
 - KoboldAI/GPT-Neo-2.7B-Picard 
 - KoboldAI/GPT-Neo-2.7B-Shinen 
+- distilgpt2
 
 ## List of supported translation models
 
