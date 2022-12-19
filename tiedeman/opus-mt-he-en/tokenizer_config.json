@@ -1,0 +1,14 @@
+{
+  "eos_token": "</s>",
+  "model_max_length": 512,
+  "name_or_path": "tiedeman/opus-mt-he-en",
+  "pad_token": "<pad>",
+  "separate_vocabs": false,
+  "source_lang": null,
+  "sp_model_kwargs": {},
+  "special_tokens_map_file": null,
+  "target_lang": null,
+  "tokenizer_class": "MarianTokenizer",
+  "tokenizer_file": null,
+  "unk_token": "<unk>"
+}
