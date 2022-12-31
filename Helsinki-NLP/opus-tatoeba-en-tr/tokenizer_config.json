@@ -1,13 +1,14 @@
 {
   "eos_token": "</s>",
   "model_max_length": 512,
-  "name_or_path": "Helsinki-NLP/opus-mt-tc-big-en-tr",
+  "name_or_path": "Helsinki-NLP/opus-tatoeba-en-tr",
   "pad_token": "<pad>",
   "separate_vocabs": false,
-  "source_lang": "en",
+  "source_lang": "eng",
   "sp_model_kwargs": {},
   "special_tokens_map_file": null,
-  "target_lang": "tr",
+  "target_lang": "tur",
   "tokenizer_class": "MarianTokenizer",
+  "tokenizer_file": null,
   "unk_token": "<unk>"
 }
